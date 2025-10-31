@@ -1,0 +1,11 @@
+[project]
+name = "ADK Coder"
+version = "0.1.0"
+description = "Example of ADK Coding agent using Gemini CLI whrough ACP"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agent-client-protocol>=0.6.2",
+    "google-adk>=1.17.0",
+    "google-cloud-storage>=2.19.0",
+]

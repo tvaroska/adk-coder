@@ -1,0 +1,4 @@
+{
+    "state":{"directory": "test"}, 
+    "queries": ["create script to generate 1000 random integers"]
+}
